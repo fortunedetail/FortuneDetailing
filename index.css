@@ -185,7 +185,7 @@ main {
 .index-category-box1 {
     width: 200px;
     height: 200px;
-    background-image: url(/Porche/wasjh.jpg);
+    background-image: url(Porche/wasjh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
