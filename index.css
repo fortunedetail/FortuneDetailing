@@ -1,0 +1,277 @@
+main {
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-color: #545454;
+    margin-top: px;
+    background-image: url(/picture/bg4.png);
+    opacity: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ABOUT SECTION */
+
+.index-about {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #545454;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+    
+.index-about p {
+    color: #ebe2e2;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 40px;
+    flex-basis: 100%;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.index-about h4 {
+    font-size: 26px;
+    font-weight: 500;
+    color: white;
+}
+
+.index-price {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #545454;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+
+.index-price p {
+    color: #f7f3f3;
+    text-align: center;
+    padding-bottom: 40px;
+    flex-basis: 100%;
+    font-weight: 600;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+}
+
+/* .index-price p a {
+    color: #273fcc;
+    font-size: 26px;
+    text-decoration: underline;
+} */
+
+.index-price-box {
+    width: 350px;
+    height: 350px;
+    color: white;
+    border: #111 solid 1px;
+    background-color: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 45px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+} 
+
+.index-price-box h2 {
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: underline;
+    justify-content: center;
+}
+
+.index-price-box h4 {
+    font-style: italic;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(50, 236, 50);
+}
+
+
+
+/* FULL */
+
+
+.index-full {
+    margin-top: 10px;
+    /* position: absolute; */
+    bottom: 50%;
+    left: 50%;
+    border: #111 solid 1px;
+    background-color: #545454;
+} 
+
+.index-full h2 {
+    width: 100%;    
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+}
+
+.index-full ul li {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    /* justify-content: center; */
+    /* position: relative; */
+} 
+
+.index-full h4 {
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+    text-decoration: underline;
+    color: rgb(50, 236, 50);
+}
+
+
+.index-price-box-group {
+    flex-direction: column;
+    width: 400px;
+}
+
+/* CATEGORY SECTION */
+
+.index-category {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #545454;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+
+.index-category p {
+    color: #f7f2f2;
+    text-align: center;
+    padding-bottom: 40px;
+    flex-basis: 100%;
+    font-weight: 600;
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+.index-category-box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.index-category-box1 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/Porche/wasjh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.index-category-box2 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/Mercedes/IMG_6140.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.index-category-box3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/Ford/IMG_6524.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.index-category-box4 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/Crosstrek/IMG_6001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.index-category-box5 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/CRV/IMG_5985.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.index-category-box6 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/pictures/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.index-contact {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #545454;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    flex-wrap: wrap;
+    border: #111 solid 1px;
+}
+
+.index-contact p {
+    color: #f7f4f4;
+    text-align: center;
+    padding-bottom: 40px;
+    flex-basis: 100%;
+    font-weight: 600;
+    font-size: 36px;
+    }
+
+
+    
