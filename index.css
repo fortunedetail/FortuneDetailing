@@ -197,7 +197,7 @@ main {
 .index-category-box2 {
     width: 200px;
     height: 200px;
-    background-image: url(/Mercedes/IMG_6140.jpg);
+    background-image: url(Mercedes/IMG_6140.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -209,7 +209,7 @@ main {
 .index-category-box3 {
     width: 200px;
     height: 200px;
-    background-image: url(/Ford/IMG_6524.jpg);
+    background-image: url(Ford/IMG_6524.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -221,7 +221,7 @@ main {
 .index-category-box4 {
     width: 200px;
     height: 200px;
-    background-image: url(/Crosstrek/IMG_6001.jpg);
+    background-image: url(Crosstrek/IMG_6001.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -233,7 +233,7 @@ main {
 .index-category-box5 {
     width: 200px;
     height: 200px;
-    background-image: url(/CRV/IMG_5985.jpg);
+    background-image: url(CRV/IMG_5985.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
